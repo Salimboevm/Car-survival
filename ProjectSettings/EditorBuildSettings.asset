@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9efbb9cf1d56ac14783642d31f282f41
+  - enabled: 1
+    path: Assets/Scenes/Fog.unity
+    guid: 28d0a16d9ebb1bf47889be8bd8c1bb65
+  - enabled: 1
+    path: Assets/Scenes/Rain.unity
+    guid: ea59656dd0316a7448d41da1212bfb79
+  - enabled: 1
+    path: Assets/Scenes/Snow.unity
+    guid: 92e7edcfa3a679e4c870fceb9d704949
+  - enabled: 1
+    path: Assets/Scenes/Garage.unity
+    guid: bf4883af2b99eae4dbab8b647a4910a8
+  m_configObjects: {}
